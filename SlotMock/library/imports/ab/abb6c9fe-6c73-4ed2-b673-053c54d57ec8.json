@@ -1,0 +1,80 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "glow",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "Vmw+1GxaRFpq9iVEttm5X6y9ytc",
+      "spine": "3.7.94",
+      "width": 408,
+      "height": 408,
+      "images": "./img/",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "glow",
+        "bone": "root",
+        "color": "ffffff00",
+        "attachment": "glow",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "glow": {
+          "glow": {
+            "width": 408,
+            "height": 408
+          }
+        }
+      }
+    },
+    "animations": {
+      "loop": {
+        "slots": {
+          "glow": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff49"
+              },
+              {
+                "time": 0.3333,
+                "color": "00adff49"
+              },
+              {
+                "time": 0.6667,
+                "color": "ff00f849"
+              },
+              {
+                "time": 1,
+                "color": "f8ff0049"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffff49"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nglow.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nglow\r\n  rotate: false\r\n  xy: 0, 0\r\n  size: 237, 237\r\n  orig: 408, 408\r\n  offset: 85, 86\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "e83cdb8f-68f4-4929-a8d8-986272859cfa"
+    }
+  ],
+  "textureNames": [
+    "glow.png"
+  ],
+  "scale": 1
+}
