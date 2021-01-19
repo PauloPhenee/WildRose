@@ -500,23 +500,23 @@
     "relativePath": "model\\primitives.fbx"
   },
   "f53b641a-6f3c-411a-b891-bd8c7d29a84f": {
-    "asset": 1605656292925,
-    "meta": 1605656326688,
+    "asset": 1611002844026,
+    "meta": 1611067090859,
     "relativePath": "_scenes"
   },
   "ad0ec9a1-2e02-489e-b9ec-8ac9ed5b9e69": {
-    "asset": 1605656292694,
-    "meta": 1605656326689,
+    "asset": 1611002842999,
+    "meta": 1611067090861,
     "relativePath": "gfx"
   },
   "e288f5c9-87a2-4699-9e9d-84f981a6d5ee": {
-    "asset": 1605656292708,
-    "meta": 1605656326692,
+    "asset": 1611002843015,
+    "meta": 1611067090863,
     "relativePath": "gfx\\glow"
   },
   "c1bc28a2-729f-47d8-81bc-cbf91d2e4944": {
-    "asset": 1610739959015,
-    "meta": 1610739959031,
+    "asset": 1611067124644,
+    "meta": 1611067124660,
     "relativePath": "_scenes\\Main.fire"
   },
   "f91bc100-4f9e-4e17-8552-2479cf3f533b": {
@@ -525,8 +525,8 @@
     "relativePath": "gfx\\glow\\glow.atlas"
   },
   "e6738bf2-b211-481d-b525-cb4671b77dfd": {
-    "asset": 1605656292715,
-    "meta": 1605656326693,
+    "asset": 1611002843042,
+    "meta": 1611067090865,
     "relativePath": "migration"
   },
   "3b821b0a-1f7e-4126-8d45-51629f15ddb2": {
@@ -535,8 +535,8 @@
     "relativePath": "migration\\use_v2.1-2.2.1_cc.Toggle_event.js"
   },
   "fec3a723-38e6-48ae-83de-3adabf7b99e4": {
-    "asset": 1605656292726,
-    "meta": 1605656326695,
+    "asset": 1611002843094,
+    "meta": 1611067090866,
     "relativePath": "prefabs"
   },
   "6fc8688c-db9f-4c20-8b71-e6df9b2f3af8": {
@@ -550,13 +550,13 @@
     "relativePath": "prefabs\\Tile.prefab"
   },
   "0387fe55-9073-4937-8812-149b03b6172b": {
-    "asset": 1605656292732,
-    "meta": 1605656326696,
+    "asset": 1611002843104,
+    "meta": 1611067090868,
     "relativePath": "resources"
   },
   "109a69bf-4ae3-4ce1-8f53-767f4c1cfcdd": {
-    "asset": 1605656292742,
-    "meta": 1605656326697,
+    "asset": 1611002843114,
+    "meta": 1611067090869,
     "relativePath": "resources\\gfx"
   },
   "4aaeba93-acc3-486d-a14b-f74075b065d0": {
@@ -565,8 +565,8 @@
     "relativePath": "resources\\gfx\\Res.pac"
   },
   "4dcd8cc8-b2e6-453c-ad6c-bdb248c51280": {
-    "asset": 1605656292867,
-    "meta": 1605656326699,
+    "asset": 1611002843717,
+    "meta": 1611067090871,
     "relativePath": "resources\\gfx\\Square"
   },
   "e83cdb8f-68f4-4929-a8d8-986272859cfa": {
@@ -725,23 +725,23 @@
     "relativePath": "resources\\gfx\\Square\\whale.png"
   },
   "2e0ebef9-b9f4-4966-a46b-756d47d9d57a": {
-    "asset": 1610721026375,
-    "meta": 1610735883837,
+    "asset": 1611066943617,
+    "meta": 1611067090872,
     "relativePath": "scripts"
   },
   "474ffae1-35de-4bda-b78d-dbfc1f74b94c": {
-    "asset": 1610722668100,
-    "meta": 1610735883839,
+    "asset": 1611066943619,
+    "meta": 1611067091058,
     "relativePath": "scripts\\slots"
   },
   "93886d01-643a-48c4-b7f3-7fc7ace50fd7": {
-    "asset": 1605656292913,
-    "meta": 1605656326703,
+    "asset": 1611002843973,
+    "meta": 1611067091199,
     "relativePath": "sfx"
   },
   "dbebd484-0998-4b61-92a8-e5de86f7987d": {
-    "asset": 1605656292910,
-    "meta": 1605656326704,
+    "asset": 1611002843970,
+    "meta": 1611067091203,
     "relativePath": "sfx\\casino"
   },
   "41d4383b-a965-4837-b90a-8ab8f4b48029": {
@@ -750,8 +750,8 @@
     "relativePath": "resources\\gfx\\Square\\zebra.png"
   },
   "bb5db274-7a9a-4ecf-acb7-c7e9032ea788": {
-    "asset": 1605656292917,
-    "meta": 1605656326705,
+    "asset": 1611002843990,
+    "meta": 1611067091205,
     "relativePath": "sfx\\ui"
   },
   "1e510565-b4bd-4a60-abbb-40cf59de10d5": {
@@ -766,27 +766,27 @@
   },
   "cbbb2c07-de30-4760-9692-f3bafc450767": {
     "asset": 1610656846268,
-    "meta": 1610657223778,
+    "meta": 1611067091056,
     "relativePath": "scripts\\SlotEnum.ts"
   },
   "74622ef5-55d1-4de0-9dfc-8af86ed5f3f5": {
     "asset": 1610736063033,
-    "meta": 1610736359292,
+    "meta": 1611067091044,
     "relativePath": "scripts\\GameManager.ts"
   },
   "e75a394f-8f38-4d2d-bf33-dc7acce8f3f4": {
     "asset": 1610739916787,
-    "meta": 1610739918833,
+    "meta": 1611067091108,
     "relativePath": "scripts\\slots\\Machine.ts"
   },
   "91e54cf3-189e-4eb3-aab1-63bde6e3e079": {
     "asset": 1610739901594,
-    "meta": 1610739918894,
+    "meta": 1611067091178,
     "relativePath": "scripts\\slots\\Reel.ts"
   },
   "23da8828-3294-4bca-8174-5c3acd08aac6": {
     "asset": 1610739876866,
-    "meta": 1610739918911,
+    "meta": 1611067091197,
     "relativePath": "scripts\\slots\\Tile.ts"
   }
 }
